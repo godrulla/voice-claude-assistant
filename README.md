@@ -22,7 +22,8 @@ A hands-free voice interaction system for Claude AI that allows natural conversa
 
 1. Clone the repository:
 ```bash
-cd /Users/mando/voice-claude-assistant
+git clone https://github.com/godrulla/voice-claude-assistant.git
+cd voice-claude-assistant
 ```
 
 2. Create and activate virtual environment:
@@ -148,7 +149,7 @@ voice-claude-assistant/
 
 ## License
 
-This project is for personal use. Please refer to Anthropic's terms of service for Claude API usage.
+MIT License
 
 ## Acknowledgments
 
@@ -156,3 +157,7 @@ This project is for personal use. Please refer to Anthropic's terms of service f
 - Picovoice Porcupine for wake word detection
 - Anthropic for Claude AI
 - Google for Speech Recognition API
+
+---
+
+Built by Armando Diaz Silverio
